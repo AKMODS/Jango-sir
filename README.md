@@ -1,20 +1,23 @@
 
 <div align="center">
-  <img border-radius: 15px src="Jangoser.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Jangoser.jpg"width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Jango ser" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+    
+    
+<a href="#"><img title="JANGO SER" src="https://img.shields.io/badge/JANGO-SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-Muhammad Afzal/Jango ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/AKMODS"><img title="Author" src="https://img.shields.io/badge/Author- MUHAMMAD AFZAL -JANGO SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/AKMODS">JANGO-SER</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
+
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
 
