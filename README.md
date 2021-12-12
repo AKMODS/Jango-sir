@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/AKMODS">JANGO-SER</a> to make it 
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AKMODS/Jango-sir) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@_4fzl._/Jango-sir)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
 ### The Hard Method
 ```js
